@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieAPI</string>
+    <string name="hint">Título de la película</string>
+    <string name="boton">Buscar</string>
+</resources>
